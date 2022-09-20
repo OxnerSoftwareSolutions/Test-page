@@ -6,6 +6,10 @@ html {
    font-weight: 200;
  }
  
+.p{
+  background-color: black;
+}
+
  header{
   contain: content;
   align-items: center;
@@ -211,6 +215,11 @@ ul{
 
   .panel8 { 
     background-image:url(images/Father.jpg);
+    background-position: center;
+  }
+
+  .panel9 {
+    background-image:url(images/matrix-bg.jpg);
     background-position: center;
   }
 
