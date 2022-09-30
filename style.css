@@ -23,8 +23,7 @@ html {
  }
  
  .cube Container div{
-  margin: 0, auto;
-  position: fixed;
+  display:flex;
   justify-content: center;
   align-items: center;
   padding-left: 150px;
